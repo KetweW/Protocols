@@ -141,10 +141,11 @@
     | 3 μl   | BC LNA RT primer (XC1215)    | 1μM                                                 |
     | 30 μl  | RevertAid H Minus M-MuLV RT               | 20 U/μl                                             |
     | 181.5 μl| Nuclease-free Water                                              | Fill to 300 μl                                      |
+    
     Add RT buffer to samples. Incubate at 37°C for at least 5 hr. (Note: 5hr is a long RT; if optimization is possible, consider testing 1-2h).
-29. Crosslink the RT product using the Crosslinking buffer recipe from Step 24 (but **omit RVC**). Incubate for 1 hr (or specify duration) in a humidified chamber at RT.
-30. Wash 1X in 1M Tris-HCl pH 8.0. Then, incubate in 1M Tris-HCl pH 8.0 for at least 30 min at RT.
-31. Gap Filling. Prepare Gap-filling buffer: (Recipe for 300µl)
+30. Crosslink the RT product using the Crosslinking buffer recipe from Step 24 (but **omit RVC**). Incubate for 1 hr (or specify duration) in a humidified chamber at RT.
+31. Wash 1X in 1M Tris-HCl pH 8.0. Then, incubate in 1M Tris-HCl pH 8.0 for at least 30 min at RT.
+32. Gap Filling. Prepare Gap-filling buffer: (Recipe for 300µl)
 
     | Volume  | Stock                                                                               | Target / Notes                                                                                                                                            |
     | ------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
