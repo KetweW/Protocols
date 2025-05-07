@@ -94,7 +94,7 @@
 | 3 μl  | Superasing RNase inhibitor            | 0.2 U/μl  |
 | 30 μl    | 50% Glycerol              | 5%  v:v  |
 | 200 μl | Water                             |   Fill to 300 μl   |
-22. Exchange the RCA buffer into chamber and incubate on ice for 15min and the RT for 10min, 25C incubator overnight
+22. Exchange the RCA buffer into chamber and incubate on ice for 15min and then RT for 10min, 25C incubator overnight
 
 ### Day 3
 23. Remove sample from incubator and **wash slowly** using PBSTw for 2 times
