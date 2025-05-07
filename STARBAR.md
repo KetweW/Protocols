@@ -159,9 +159,10 @@
     | 0.15 μl | Phusion DNA Polymerase                                         | 0.001 U/μl                                                                                                                                                |
     | 24 μl   | RNase H                                                        | 0.4 U/μl                                                                                                                                                  |
     | 137.55 μl| Nuclease-free Water                                                                 | Fill to 300 μl                                                                                                                                            |
+    
     Add Gap-filling buffer to samples. Incubate for 5 min at 37°C, then 45 min at 45°C. **Timing is stringent.**
-32. Wash 2 times (e.g., 5 min each) in PBSTw.
-33. Prepare final (2nd) RCA buffer: (Recipe for 300µl)
+33. Wash 2 times (e.g., 5 min each) in PBSTw.
+34. Prepare final (2nd) RCA buffer: (Recipe for 300µl)
 
     | Volume  | Stock                                                                    | Target / Notes                                                                                                                               |
     | ------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -172,6 +173,7 @@
     | 30 μl   | Phi29 polymerase  | 0.5 U/μl final                                                                                                                               |
     | 30 μl   | 50% Glycerol                                                             | 5% v/v |
     | 198.75 μl| Nuclease-free Water                                                      | Fill to 300 μl                                                                                                                               |
+    
     Add 2nd RCA buffer to samples. Incubate at 25°C overnight (approx. 16-18 hours).
 
 ### Day 4
