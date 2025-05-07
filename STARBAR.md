@@ -61,8 +61,8 @@
 1.  Precool sample and slides in -13°C to -15°C cryostat.
 2.  Prepare metal block and cool it on dry ice.
 3.  Cryosection the sample at 16 µm; use a warm finger to gently melt and adhere the section to the slide.
-4.  Check the sample on the slide under a fluorescence microscope; begin collecting sections when clear cell-shaped GFP is observed.
-5.  Immediately place the collected sample slide onto the cold metal block. (Continue to check GFP signal every 15-20 sections).
+4.  Check the sample(every 5 sections) on the slide under a fluorescence microscope; begin collecting sections when clear cell-shaped GFP is observed.
+5.  Immediately place the collected sample slide onto the cold metal block. (Continue to check GFP signal every 20-30 sections).
 6.  Extra samples can be stored at -80°C directly. **Keep samples cold and dry.**
 7.  Prepare 4% PFA in 1X PBS (freshly prepared or from aliquots stored at -20°C) in the hood in 50ml conical tubes.
 8.  Place two slides, back-to-back, into 4% PFA with gentle rotation for 1hr at RT.
