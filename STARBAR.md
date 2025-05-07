@@ -78,7 +78,7 @@
     | 30 μl    | 20x SSC                                         | 2×                                                           |
     | 30 μl    | 100% Formamide (deionized)                      | 10% v/v                                                      |
     | 3 μl     | Salmon Sperm DNA (e10 mg/ml stock)         | 0.1 mg/ml                                                    |
-    | 3 μl     | Superasin RNase inhibitor (20 U/µl stock) | 0.2 U/μl |
+    | 3 μl     | Superasin RNase inhibitor | 0.2 U/μl |
     | x μl     | Probe mix              | 10-50nM per oligo                                            |
     | 30 μl    | 200mM RVC                                       | 20mM                                                         |
     | (204-x) μl| Nuclease-free water                             | Fill to 300 μl                                               |
@@ -125,11 +125,12 @@
     | ------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
     | 60 μl  | BSPEG9 stock in DMSO | 50mM final BSPEG9 |
     | 30 μl  | 200 mM RVC                                                                     | 20mM                                                                                                                                       |
-    | 210 μl | PBST | Fill to 300μl                                                                                                                              |
+    | 210 μl | PBST | Fill to 300μl                                                 |
+    
     Incubate in Crosslinking buffer for 1 hr in a humidified chamber at RT.
-25. Wash 1X in 1M Tris-HCl pH 8.0. Then, incubate in 1M Tris-HCl pH 8.0 with Superasin RNase Inhibitor (0.2 U/µl final) for at least 30 min at RT.
-26. Wash 2 times with PBSTw.
-27. Prepare RT buffer. (Limit freeze-thaw of RT buffer to <=2 times). (Recipe for 300µl)
+26. Wash 1X in 1M Tris-HCl pH 8.0. Then, incubate in 1M Tris-HCl pH 8.0 with Superasin RNase Inhibitor (0.2 U/µl final) for at least 30 min at RT.
+27. Wash 2 times with PBSTw.
+28. Prepare RT buffer. (Limit freeze-thaw of RT buffer to <=2 times). (Recipe for 300µl)
 
     | Volume | Stock                                                            | Target / Notes                                      |
     | ------ | ---------------------------------------------------------------- | --------------------------------------------------- |
@@ -141,9 +142,9 @@
     | 30 μl  | RevertAid H Minus M-MuLV RT               | 20 U/μl                                             |
     | 181.5 μl| Nuclease-free Water                                              | Fill to 300 μl                                      |
     Add RT buffer to samples. Incubate at 37°C for at least 5 hr. (Note: 5hr is a long RT; if optimization is possible, consider testing 1-2h).
-28. Crosslink the RT product using the Crosslinking buffer recipe from Step 24 (but **omit RVC**). Incubate for 1 hr (or specify duration) in a humidified chamber at RT.
-29. Wash 1X in 1M Tris-HCl pH 8.0. Then, incubate in 1M Tris-HCl pH 8.0 for at least 30 min at RT.
-30. Gap Filling. Prepare Gap-filling buffer: (Recipe for 300µl)
+29. Crosslink the RT product using the Crosslinking buffer recipe from Step 24 (but **omit RVC**). Incubate for 1 hr (or specify duration) in a humidified chamber at RT.
+30. Wash 1X in 1M Tris-HCl pH 8.0. Then, incubate in 1M Tris-HCl pH 8.0 for at least 30 min at RT.
+31. Gap Filling. Prepare Gap-filling buffer: (Recipe for 300µl)
 
     | Volume  | Stock                                                                               | Target / Notes                                                                                                                                            |
     | ------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -159,8 +160,8 @@
     | 24 μl   | RNase H                                                        | 0.4 U/μl                                                                                                                                                  |
     | 137.55 μl| Nuclease-free Water                                                                 | Fill to 300 μl                                                                                                                                            |
     Add Gap-filling buffer to samples. Incubate for 5 min at 37°C, then 45 min at 45°C. **Timing is stringent.**
-31. Wash 2 times (e.g., 5 min each) in PBSTw.
-32. Prepare final (2nd) RCA buffer: (Recipe for 300µl)
+32. Wash 2 times (e.g., 5 min each) in PBSTw.
+33. Prepare final (2nd) RCA buffer: (Recipe for 300µl)
 
     | Volume  | Stock                                                                    | Target / Notes                                                                                                                               |
     | ------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
