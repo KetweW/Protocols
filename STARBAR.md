@@ -35,7 +35,7 @@
 | 45 ml   | Water (MilliQ or Fancy) |           |
 | 50 ml   | Total                   |           |
 
-##### 2%, 1% and 0.5% PBST(Make fresh every experiment)
+### 2%, 1% and 0.5% PBST(Make fresh every experiment)
 
 ## Procedure
 
