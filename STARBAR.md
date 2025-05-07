@@ -82,7 +82,8 @@
 19. Wash sample once in PBSTw(remove high salt to ensure Ligase activity)
 20. Incubate in wet condition for 4hr at RT
 21. Wash 2X in PBSTw and prepare RCA buffer **on ice**
-
+  The dNTP should experience less than 5 freeze-thaw and less than 3 freeze-thaw cycle for aadUTP and Phi29 buffer
+  
 | Volume  | Stock                             | Target    |
 | ------- | --------------------------------- | --------- |
 | 30 μl    | 10x Phi29 buffer              | 1×        |
@@ -107,6 +108,7 @@
 25. Wash 1X in 1M Tris-HCL pH 8.0 and incubate in 1M Tris-HCL pH 8.0 **with 1:100 Superasin** for at least 0.5hr.
 26. Wash 2X with PBSTw.
 27. Prepare RT buffer: incubate at 37C for at least 5hr
+  Freeze-thaw RT buffer 2 times max
 
 | Volume  | Stock                  | Target    |
 | ------- | ---------------------- | --------- |
