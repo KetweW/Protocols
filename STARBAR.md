@@ -66,11 +66,11 @@
 6.  Extra samples can be stored at -80°C directly. **Keep samples cold and dry.**
 7.  Prepare 4% PFA in 1X PBS (freshly prepared or from aliquots stored at -20°C) in the hood in 50ml conical tubes.
 8.  Place two slides, back-to-back, into 4% PFA with gentle rotation for 1hr at RT.
-9.  Wash 3 times (e.g., 5 min each) in 1X PBS and mount the chamber.
+9.  Dip into 1XPBS for 3 times and mount the chamber **prevent from dry**.
 10. Stepwise dehydrate the sample in 70%, 85%, and 100% EtOH (nuclease-free), 5 min each at RT.
 11. Incubate in 100% EtOH for at least 1.5hr at 4°C. Cover with parafilm to prevent evaporation.
-12. Wash 5 times (e.g., 3-5 min each) in PBSTG (ensure smooth injection and aspiration of buffer from chamber).
-13. Rehydrate in PBSTG with Superasin RNase Inhibitor (**0.1-0.5 U/µl**) for 15 min at RT.
+12. Wash 5 times in PBSTG (ensure smooth injection and aspiration of buffer from chamber).
+13. Rehydrate in PBSTG with Superasin RNase Inhibitor (0.1-0.5 U/µl) for 15 min at RT.
 14. While incubating, prepare hybridization buffer. (Recipe below for 300μl, sufficient for 2 samples; 150µl/sample).
 
     | Volume   | Stock                                           | Target / Notes                                               |
