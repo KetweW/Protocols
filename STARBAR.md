@@ -35,6 +35,7 @@
 | 0.375 g | Glycine powder (MW ~75.07)  | ~100mM                                                        |
 | 45 ml   | Nuclease-free water |                                                               |
 | 50 ml   | Total                       |                                                               |
+
 *Immediately before use, add Salmon Sperm DNA to a final concentration of 0.1 mg/ml.*
 
 ##### PBST (Phosphate Buffered Saline + Triton X-100)
