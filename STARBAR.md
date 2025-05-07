@@ -58,9 +58,9 @@
 | Volume  | Stock                  | Target    |
 | ------- | ---------------------- | --------- |
 | 30 μl  | 20x SSC                | 2×        |
-| 30 μl  | Formamide              | 10%       |
-| 3 μl  | SSDNA    | 1:100 |
-| 3 μl  | Superasin RNase inhibitor | 1:100     |
+| 30 μl  | Formamide              | 10% v:v   |
+| 3 μl  | SSDNA    | 0.1mg/ml |
+| 3 μl  | Superasin RNase inhibitor | 0.2U/μl   |
 | x μl  | probe mix | 10-50nM per oligo     |
 | 30 μl  | 200mM RVC               | 20mM        |
 | 204-x μl | water         | Fill to 300 μl |
@@ -76,8 +76,8 @@
 | ------- | ---------------------- | --------- |
 | 30 μl    | 10x T4 ligase buffer   | 1×        |
 | 1.5 μl  | 20 mg/ml BSA           | 0.1 mg/ml |
-| 3 μl  | Superasing RNase inhibitor | 0.4 U/μl  |
-| 15 μl  | T4 DNA ligase          |           |
+| 3 μl  | Superasing RNase inhibitor | 0.2 U/μl  |
+| 15 μl  | T4 DNA ligase          |   2U/μl  |
 | 250 μl   | Water                  | Fill to 300 μl |
 19. Wash sample once in PBSTw(remove high salt to ensure Ligase activity)
 20. Incubate in wet condition for 4hr at RT
@@ -90,9 +90,9 @@
 | 3 μl  | 20 mg/ml BSA                      | 0.2 mg/ml |
 | 12 μl | 10 mM dNTPs                       | 0.4 mM   |
 | 1.5 μl  | **50 mM** aminoallyl-dUTP          | 250 μM     |
-| 30 μl  | Phi29 polymerase | 0.2 U/μl  |
-| 3 μl  | Superasing RNase inhibitor            | 0.4 U/μl  |
-| 30 μl    | 50% Glycerol              | 5%        |
+| 30 μl  | Phi29 polymerase | 0.5 U/μl  |
+| 3 μl  | Superasing RNase inhibitor            | 0.2 U/μl  |
+| 30 μl    | 50% Glycerol              | 5%  v:v  |
 | 200 μl | Water                             |   Fill to 300 μl   |
 22. Exchange the RCA buffer into chamber and incubate on ice for 15min and the RT for 10min, 25C incubator overnight
 
@@ -102,7 +102,7 @@
 
 | Volume  | Stock                             | Target    |
 | ------- | --------------------------------- | --------- |
-| 60 μl    | BSPEG 9 stock              | 1×        |
+| 60 μl    | BSPEG 9 stock              |  50mM    |
 | 30 μl | 200 mM RVC  | 20mM   |
 | 210 μl  | PBST          | Fill to 300μl |
 25. Wash 1X in 1M Tris-HCL pH 8.0 and incubate in 1M Tris-HCL pH 8.0 **with 1:100 Superasin** for at least 0.5hr.
@@ -114,10 +114,10 @@
 | ------- | ---------------------- | --------- |
 | 60 μl    | 5x RT buffer   | 1×   |
 | 3 μl  | 20 mg/ml BSA           | 0.2 mg/ml |
-| 7.5 μl  | RiboLock RNase inhibitor |  |
+| 7.5 μl  | RiboLock RNase inhibitor | 1U/μl |
 | 15 μl | 10 mM dNTPs                       | 0.5 mM   |
 | 3 μl  | BC LNA RT primer (XC1215)          |  1μM   |
-| 30 μl  | RevertAid H Minus M-MulV RT          |           |
+| 30 μl  | RevertAid H Minus M-MulV RT          |   20U/μl  |
 | 180 μl   | Water                  | Fill to 300 μl |
 28. Crosslink the RT product in Crosslinking buffer above, no need RVC
 29. Wash 1X in 1M Tris-HCL pH 8.0 and incubate in 1M Tris-HCL pH 8.0 for at least 0.5hr.
@@ -131,10 +131,10 @@
 | 1.5 μl | 10 mM dNTPs                       | 0.05 mM   |
 | 30 μl    | 50% Glycerol              | 5%        |
 | 60 μl  | 100% Formamide   | 20% v:v |
-| 1.5 μl  | Ampligase | 0.2 U/μl  |
-| 7.5 μl  | RiboLock RNase inhibitor      | 0.4 U/μl  |
-| 0.15 μl  | Phusion |  |
-| 24 μl  | RNase H |  |
+| 1.5 μl  | Ampligase | 0.5 U/μl  |
+| 7.5 μl  | RiboLock RNase inhibitor      | 1 U/μl  |
+| 0.15 μl  | Phusion | 0.001U/μl |
+| 24 μl  | RNase H | 0.4U/μl |
 | 120 μl | Water      |   Fill to 300 μl   |
 
 31. Wash 2X in PBSTw
@@ -146,7 +146,7 @@
 | 3 μl  | 20 mg/ml BSA                      | 0.2 mg/ml |
 | 7.5 μl | 10 mM dNTPs                       | 0.25 mM   |
 | 0.75 μl  | **50 mM** aminoallyl-dUTP          | 125 μM     |
-| 30 μl  | Phi29 polymerase | 0.2 U/μl  |
+| 30 μl  | Phi29 polymerase | 0.5 U/μl  |
 | 30 μl    | 50% Glycerol              | 5%        |
 | 200 μl | Water                             |   Fill to 300 μl   |
 
