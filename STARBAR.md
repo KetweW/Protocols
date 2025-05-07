@@ -86,7 +86,7 @@
 15. Add hybridization buffer to samples. Incubate at 40°C for over two nights (approx. 36-48 hours). (Note: This is a long incubation; if optimization is possible, consider testing 16-24h). Seal chamber well.
 
 ### Day 2
-16. Remove sample from 40°C incubator. Wash 2 times (e.g., 5-10 min each) in 1% PBST with Superasin (0.1-0.5 U/µl) at 37°C.
+16. Remove sample from 40°C incubator. Wash 2 times in 1% PBST with Superasin (0.1-0.5 U/µl) at 37°C.
 17. Wash once with 4xSSC + 1% PBST for 20 min at 37°C.
 18. Meanwhile, prepare ligation buffer. (For 10X T4 ligase buffer, limit freeze-thaw cycles to <5). (Recipe for 300µl).
 
@@ -94,12 +94,12 @@
     | ------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
     | 30 μl   | 10x T4 DNA Ligase buffer                                       | 1×                                                                                                                    |
     | 1.5 μl  | 20 mg/ml BSA                                                   | 0.1 mg/ml                                                                                                             |
-    | 3 μl    | Superasin RNase inhibitor (e.g., 20 U/µl stock)                | 0.2 U/μl |
+    | 3 μl    | Superasin RNase inhibitor                 | 0.2 U/μl |
     | 15 μl   | T4 DNA Ligase  | 2 U/μl final                                                                                                          |
     | 250.5 μl| Nuclease-free Water                                            | Fill to 300 μl                                                                                                        |
 19. Wash sample once in PBSTw to remove high salt and ensure Ligase activity.
 20. Add ligation mix to samples. Incubate in a humidified chamber for 4 hr at RT.
-21. Wash 2 times (e.g., 5 min each) in PBSTw. Prepare 1st RCA buffer **on ice**.
+21. Wash 2 times in PBSTw. Prepare 1st RCA buffer **on ice**.
     *dNTPs should experience <5 freeze-thaw cycles.*
     *Aminoallyl-dUTP and Phi29 buffer should experience <3 freeze-thaw cycles.*
     (Recipe for 300µl)
@@ -111,13 +111,13 @@
     | 12 μl   | 10 mM dNTPs                               | 0.4 mM (each)                                                                                                                                |
     | 1.5 μl  | 50 mM aminoallyl-dUTP                                                | 250 μM                                                                                                                                       |
     | 30 μl   | Phi29 polymerase  | 0.5 U/μl final                                                                                                                               |
-    | 3 μl    | Superasin RNase inhibitor (e.g., 20 U/µl stock)                          | 0.2 U/μl |
+    | 3 μl    | Superasin RNase inhibitor                       | 0.2 U/μl |
     | 30 μl   | 50% Glycerol                                                             | 5% v/v |
     | 190.5 μl| Nuclease-free Water                                                      | Fill to 300 μl                                                                                                                               |
 22. Exchange RCA buffer into chamber. Incubate on ice for 15 min, then at RT for 10 min, and finally in a 25°C incubator overnight (approx. 16-18 hours).
 
 ### Day 3
-23. Remove sample from incubator. **Wash slowly** 2 times (e.g., 2 x 5 min) using PBSTw.
+23. Remove sample from incubator. **Wash slowly** 2 times using PBSTw.
 24. Crosslink the 1st RCA product. Prepare Crosslinking buffer: (Recipe for 300µl)
   *BSPEG9 are 250mM stocks in DMSO, use the aliquote no longer than 3 weeks*
 
@@ -162,7 +162,7 @@
     | 137.55 μl| Nuclease-free Water                                                                 | Fill to 300 μl                                                                                                                                            |
     
     Add Gap-filling buffer to samples. Incubate for 5 min at 37°C, then 45 min at 45°C. **Timing is stringent.**
-33. Wash 2 times (e.g., 5 min each) in PBSTw.
+33. Wash 2 times in PBSTw.
 34. Prepare final (2nd) RCA buffer: (Recipe for 300µl)
 
     | Volume  | Stock                                                                    | Target / Notes                                                                                                                               |
@@ -178,7 +178,7 @@
     Add 2nd RCA buffer to samples. Incubate at 25°C overnight (approx. 16-18 hours).
 
 ### Day 4
-33. Wash **slowly** 2 times (e.g., 5 min each) in PBSTw.
+33. Wash **slowly** 2 times in PBSTw.
 34. Crosslink with the Crosslinking buffer recipe from Step 24 (but **omit RVC**). Incubate for 1 hr (or specify duration) in a humidified chamber at RT.
 35. Wash 1X in 1M Tris-HCl pH 8.0. Then, incubate in 1M Tris-HCl pH 8.0 for at least 30 min at RT.
 36. Proceed to sequencing (and subsequent imaging steps).
