@@ -47,7 +47,7 @@
 5. Immediatelly put the collected sample onto metal block.(Still, check the GFP every 15-20 sections)
 6. Extra samples can be stored in -80C directly. **keep sample cold and dry.**
 7. Prepare 4% PFA in 1XPBS in hood in 50ml conical tubes.
-8. Place two slides, back to back, into 4% PFA, gentally rotate for 1hr.
+8. Place two slides, back to back, into 4% PFA, with gentle rotation for 1hr.
 9. Wash 3 times in 1XPBS and mount the chamber.
 10. Step dehydrate the sample in 70%, 85% and 100% EtOH, 3min each.
 11. Incubate in 100% EtOH for at least 1.5hr at 4C. Cover with parafilm to prevent dry.
