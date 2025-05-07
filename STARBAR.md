@@ -65,11 +65,11 @@
 6.  Extra samples can be stored at -80°C directly. **Keep samples cold and dry.**
 7.  Prepare 4% PFA in 1X PBS (freshly prepared or from aliquots stored at -20°C) in the hood in 50ml conical tubes.
 8.  Place two slides, back-to-back, into 4% PFA with gentle rotation for 1hr at RT.
-9.  Wash 3 times (e.g., 5 min each) in 1X PBS and mount the chamber (Specify chamber type, e.g., HybriWell).
-10. Stepwise dehydrate the sample in 70%, 85%, and 100% EtOH (nuclease-free if possible), 3 min each at RT.
+9.  Wash 3 times (e.g., 5 min each) in 1X PBS and mount the chamber.
+10. Stepwise dehydrate the sample in 70%, 85%, and 100% EtOH (nuclease-free), 5 min each at RT.
 11. Incubate in 100% EtOH for at least 1.5hr at 4°C. Cover with parafilm to prevent evaporation.
 12. Wash 5 times (e.g., 3-5 min each) in PBSTG (ensure smooth injection and aspiration of buffer from chamber).
-13. Rehydrate in PBSTG with Superasin RNase Inhibitor (**0.5-1 U/µl**) for 15 min at RT.
+13. Rehydrate in PBSTG with Superasin RNase Inhibitor (**0.1-0.5 U/µl**) for 15 min at RT.
 14. While incubating, prepare hybridization buffer. (Recipe below for 300μl, sufficient for 2 samples; 150µl/sample).
 
     | Volume   | Stock                                           | Target / Notes                                               |
@@ -85,7 +85,7 @@
 15. Add hybridization buffer to samples. Incubate at 40°C for over two nights (approx. 36-48 hours). (Note: This is a long incubation; if optimization is possible, consider testing 16-24h). Seal chamber well.
 
 ### Day 2
-16. Remove sample from 40°C incubator. Wash 2 times (e.g., 5-10 min each) in 1% PBST with Superasin (0.5-1 U/µl) at 37°C.
+16. Remove sample from 40°C incubator. Wash 2 times (e.g., 5-10 min each) in 1% PBST with Superasin (0.1-0.5 U/µl) at 37°C.
 17. Wash once with 4xSSC + 1% PBST for 20 min at 37°C.
 18. Meanwhile, prepare ligation buffer. (For 10X T4 ligase buffer, limit freeze-thaw cycles to <5). (Recipe for 300µl).
 
