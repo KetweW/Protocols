@@ -91,11 +91,11 @@
 16. Remove sample from 40°C incubator. Wash 2 times in 1% PBST with Superasin (0.1-0.5 U/µl) at 37°C.
 17. Wash once with 4xSSC + 1% PBST for 20 min at 37°C.
 
-| Volume  | Stock                  | Target    |
-| ------- | ---------------------- | --------- |
-| 60 ul    | 20x SSC       | 4×        |
-| 240 ul   | 1% PBST | |
-| 3 ul   | Superasin | 0.2U/μl |
+    | Volume  | Stock                  | Target    |
+    | ------- | ---------------------- | --------- |
+    | 60 ul    | 20x SSC       | 4×        |
+    | 240 ul   | 1% PBST | |
+    | 3 ul   | Superasin | 0.2U/μl |
 
 19. Meanwhile, prepare ligation buffer. (For 10X T4 ligase buffer, limit freeze-thaw cycles to <5). (Recipe for 300µl).
 
