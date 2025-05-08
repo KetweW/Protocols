@@ -57,6 +57,8 @@
 
 ## Procedure
 
+### For all Superasin usage, you can increase by 50% to 100% to ensure RNA integrity during long incubations. 
+
 ### Day 0
 1.  Precool sample and slides in -13°C to -15°C cryostat.
 2.  Prepare metal block and cool it on dry ice.
@@ -88,7 +90,14 @@
 ### Day 2
 16. Remove sample from 40°C incubator. Wash 2 times in 1% PBST with Superasin (0.1-0.5 U/µl) at 37°C.
 17. Wash once with 4xSSC + 1% PBST for 20 min at 37°C.
-18. Meanwhile, prepare ligation buffer. (For 10X T4 ligase buffer, limit freeze-thaw cycles to <5). (Recipe for 300µl).
+
+| Volume  | Stock                  | Target    |
+| ------- | ---------------------- | --------- |
+| 60 ul    | 20x SSC       | 4×        |
+| 240 ul   | 1% PBST | |
+| 3 ul   | Superasin | 0.2U/μl |
+
+19. Meanwhile, prepare ligation buffer. (For 10X T4 ligase buffer, limit freeze-thaw cycles to <5). (Recipe for 300µl).
 
     | Volume  | Stock                                                          | Target / Notes                                                                                                      |
     | ------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
@@ -97,9 +106,9 @@
     | 3 μl    | Superasin RNase inhibitor                 | 0.2 U/μl |
     | 15 μl   | T4 DNA Ligase  | 2 U/μl final                                                                                                          |
     | 250.5 μl| Nuclease-free Water                                            | Fill to 300 μl                                                                                                        |
-19. Wash sample once in PBSTw to remove high salt and ensure Ligase activity.
-20. Add ligation mix to samples. Incubate in a humidified chamber for 4 hr at RT.
-21. Wash 2 times in PBSTw. Prepare 1st RCA buffer **on ice**.
+20. Wash sample once in PBSTw to remove high salt and ensure Ligase activity.
+21. Add ligation mix to samples. Incubate in a humidified chamber for 4 hr at RT.
+22. Wash 2 times in PBSTw. Prepare 1st RCA buffer **on ice**.
     *dNTPs should experience <5 freeze-thaw cycles.*
     *Aminoallyl-dUTP and Phi29 buffer should experience <3 freeze-thaw cycles.*
     (Recipe for 300µl)
@@ -114,7 +123,7 @@
     | 3 μl    | Superasin RNase inhibitor                       | 0.2 U/μl |
     | 30 μl   | 50% Glycerol                                                             | 5% v/v |
     | 190.5 μl| Nuclease-free Water                                                      | Fill to 300 μl                                                                                                                               |
-22. Exchange RCA buffer into chamber. Incubate on ice for 15 min, then at RT for 10 min, and finally in a 25°C incubator overnight (approx. 16-18 hours).
+23. Exchange RCA buffer into chamber. Incubate on ice for 15 min, then at RT for 10 min, and finally in a 25°C incubator overnight (approx. 16-18 hours).
 
 ### Day 3
 23. Remove sample from incubator. **Wash slowly** 2 times using PBSTw.
